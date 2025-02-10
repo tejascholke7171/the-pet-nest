@@ -1,0 +1,460 @@
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+body{
+    background-image: url('./../images/Dog_pics/brg.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+
+        .body-img {
+            height: 900px;
+            width: auto;
+       
+            background-color: #020202;
+        }
+
+        .img {
+            height: 700px;
+            width: 100%;
+
+        }
+
+        .adopt-card {
+            height: 20%;
+            width: 90%;
+            background-color: #fff;
+            position: relative;
+            left: 60px;
+            top: -150px;
+            text-align: center;
+            padding: 10px;
+            box-shadow: 0px 0px 10px 2px #d3cbc0;
+        }
+
+        .btn {
+            height: 50px;
+            width: 20%;
+            margin: 20px 0px;
+            font-size: 20px;
+            border: none;
+            background-color: #ff7716;
+            color: white;
+            font-weight: bold;
+        }
+
+
+        .content-heading {
+            text-align: center;
+        }
+
+        .left-content {
+            height: 700px;
+            margin-left: 40px;
+            background-color: #ACE1AF;
+        }
+
+        marquee {
+            background-color: bisque;
+        }
+
+        .card-box {
+            border: 1px solid #ddd;
+            height: 500px;
+            padding: 20px;
+            margin: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-evenly;
+        }
+
+        .car1 {
+            background-image: url('https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FyZCUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D');
+            background-color: rgb(234, 225, 225);
+            height: 400px;
+            width: 300px;
+            border: 1px solid black;
+            border-radius: 10px;
+            margin: 50px;
+            box-shadow: 0 0 10px gray;
+            color: #ffffff;
+            background-size: cover;
+        }
+
+        .card-box-h4 {
+            color: rgb(0, 0, 0);
+            padding-top: 60px;
+            padding-left: 20px;
+            padding-bottom: 70px;
+            font-size: 30px;
+        }
+
+        .car1 p {
+            color: #0a0808;
+            padding: 20px;
+        }
+
+        .getstart {
+            background-color: rgb(132, 0, 255);
+            height: 300px;
+            width: 900px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 25px;
+            margin-top: 20px;
+
+        }
+
+        .getstart h1 {
+            text-align: center;
+            font-size: 50px;
+            padding-top: 30px;
+            color: white;
+            font-family: "Jersey 25 Charted", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .sedan-sc-regular {
+            font-family: "Sedan SC", serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+
+        .jersey-25-charted-regular {
+            font-family: "Jersey 25 Charted", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+
+
+        .getstart p {
+            font-size: 20px;
+            padding: 50px;
+            margin-top: 20px;
+            color: white;
+            font-family: "Sedan SC", serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        button {
+            height: 40px;
+            padding-left: 50px;
+            padding-right: 50px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 20px;
+            background-color: rgb(132, 0, 255);
+            border-radius: 5px;
+            color: white;
+            font-family: "Jersey 25 Charted", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+
+        }
+
+        button:hover {
+            transition: 1s;
+            transform: scale(1.2);
+        }
+
+        .ownership-card {
+            opacity: 0.6 black;
+            height: 380px;
+            width: 1500px;
+          
+            margin-top: 60px;
+            margin-bottom: 60px;
+        }
+
+        .pet {
+            color: #020202;
+            text-align: center;
+            padding-top: 30px;
+        }
+
+        .card-boxx {
+       
+            padding: 20px;
+
+            box-shadow: 0 0 10px 5px black;    
+           
+            
+            
+
+            margin: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .content-heading {
+            font-size: 30px;
+            font-weight: bold;
+            color: #333;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            width: 100%;
+        }
+
+        label {
+            margin-top: 10px;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .btn1[type="submit"] {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .profile-card {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            width: 300px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .profile-image {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 10px;
+        }
+
+        .profile-name {
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 5px;
+        }
+
+        .profile-role {
+            font-size: 18px;
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+     
+
+    
+
+
+
+        .customer-review-card {
+            width: 100%;
+            background-color: #f2f2f2;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .customer-review-title {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .review-item {
+            display: flex;
+            margin-bottom: 20px;
+        }
+
+        .reviewer-info {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-right: 20px;
+        }
+
+        .reviewer-image {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 10px;
+        }
+
+        .reviewer-name {
+            font-weight: bold;
+        }
+
+        .review-text {
+            flex: 1;
+            background-color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        @media screen and (max-width:600px) {
+            .getstart {
+                
+                height: 200px;
+                width: 300px;
+                padding: 0px;
+                font-size: 10px;
+              margin-left: 80px;
+              position: relative;
+              left: 60px;
+            }
+            .getstart h1{
+                font-size: 20px;
+                padding-top: 10px;
+            }
+            .getstart p{
+                font-size: 15px;
+                padding: 10px;
+                
+            }
+            button{
+                padding: 10px;
+                margin-left: 190px;
+                position: relative;
+                left: 50px;
+            
+            }
+
+            .card-box{
+                height: 1500px;
+                display: flex;
+                flex-direction: column;
+                width: 400px;
+                position: relative;
+                left: 60px;
+            }
+
+            .customer-review-card{
+                display: flex;
+                flex-direction: column;
+                height:400px;
+                width:450px;
+                background-color:white;
+                position: relative;
+                left: 60px;
+            }
+            .btn1{
+                position: relative;
+                left: 10px;
+            }
+
+            .card-boxx{
+                height: 400px;
+                width: 420px;
+                position: relative;
+                left: 60px;
+            }
+            .btn1[type="submit"]{
+                margin-left:140px ;
+            }
+            .content-heading{
+                font-size: 20px;
+                padding: 10px;
+            }
+            .recent{
+                width: 450px;
+            }
+        }
+       @media screen and (min-width:601px) and (max-width:768px){
+        .getstart{
+            height: 300px;
+            width: 400px;
+            margin-left: 20px;
+        }
+        .getstart h1{
+                font-size: 30px;
+                padding-top: 20px;
+            }
+            .getstart p{
+                font-size: 20px;
+                padding: 20px;
+            }
+            button{
+                padding: 10px;
+                margin-left: 170px;
+            
+            }
+
+            .card-box{
+                height: 1500px;
+                display: flex;
+                flex-direction: column;
+                width: 400px;
+            }
+
+            .customer-review-card{
+                display: flex;
+                flex-direction: column;
+                height:400px;
+                width:450px;
+                background-color:white;
+            }
+
+            .card-boxx{
+                height: 400px;
+                width: 420px;
+            }
+            .btn1[type="submit"]{
+                margin-left:140px ;
+            }
+            .content-heading{
+                font-size: 20px;
+                padding: 10px;
+            }
+            .recent{
+                width: 450px;
+            }
+
+         @media screen and (min-width:769px) and (max-width:992px){
+           .card-box-h4{
+            font-size: 18px;
+           }
+           .card-box p{
+            padding: 10px;
+           }
+         }
+       
+ 

@@ -1,0 +1,142 @@
+
+body {
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-image: url('./../images/Dog_pics/brg.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 0;
+  margin: 0;
+}
+
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.desc{
+  font-size: 20px;
+  width: 60%;
+  position: relative;
+  left: 22%;
+  align-items: center;
+  text-align: center;
+}
+.section-header {
+  margin-bottom: 50px;
+  text-align: center;
+}
+.section-header h2 {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 3em;
+  margin-bottom: 20px;
+  
+}
+.section-header .container samp {
+  color: #000000;
+  font-weight: bold;
+}
+.body-cont{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+
+.contact-info {
+  margin: 10px;
+  height: 30%;
+  width: 40%;
+  border: 2px solid rgb(180, 168, 168);
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 15px 4px rgb(180, 168, 168);
+}
+
+.contact-info-item {
+  display: flex;
+  margin-bottom: 10px;
+  border-bottom: 2px dashed black;
+}
+
+.contact-info-content {
+  margin-left: 20px;
+}
+.contact-img{
+  height: 70px;
+  border-radius: 50%;
+}
+
+
+.contact-form {
+  padding: 40px;
+  width: 45%;
+  margin: 10px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.addres{
+  font-size: 18px;
+}
+.contact-form .input-box {
+  position:relative ;
+  width: 100%;
+  margin-top: 10px;
+}
+.contact-form h2 {
+  font-weight: bold;
+  font-size: 2em;
+  margin-bottom: 10px;
+  color: #333;
+}
+.contact-form .input-box input,
+.contact-form .input-box textarea{
+  width: 100%;
+  padding: 5px 0;
+  font-size: 16px;
+  margin: 10px 0;
+  border: none;
+  border-bottom: 2px solid #333;
+  outline: none;
+  resize: none;
+}
+.contact-form .input-box input[type="submit"]
+{
+  width: 100%;
+  background: #00bcd4;
+  color: #FFF;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 10px;
+  font-size: 18px;
+  border: 1px solid #4c5858;
+  transition: 0.5s;
+} 
+
+
+@media screen and (max-width: 600px) {
+
+.contact-info{
+  width: 100%;
+}
+.contact-form{
+  width: 100%;
+}
+  .body-cont{
+    width: 100%;
+  }
+  .desc{
+    width: 90%;
+    margin-left: -17%;
+  }
+}

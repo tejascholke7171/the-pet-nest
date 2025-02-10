@@ -1,0 +1,123 @@
+
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8zX3dhdGVyY29sb3JfaWxsdXN0cmF0aW9uX29mX2dyZWVuX3Bhc3RlbF9iYWNrZ18wM2M3ODBjOS1lNWY3LTQwMjktODE4Mi0zZWQyNjY5Mjg3ZWYuanBn.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container {
+    width: 400px;
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+    margin: 15px auto;
+    
+    display: block;
+    display: center;
+box-shadow: 0 0 10px 5px black;    
+
+
+}
+
+.container-img {
+    padding: 7px 10px;
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    display: block;
+    margin: 15px auto;
+}
+
+.container-img:hover {
+    transition: 1s;
+    transform: scale(1.1);
+
+}
+
+.label {
+    margin-bottom: 15px;
+    margin-left: 70px;
+}
+
+.input-box {
+    width:250px;
+    height: 20px;
+    margin: 7px 10px 7px 70px;
+    padding: 5px;
+    border: #000;
+    border-radius: 15px;
+
+}
+
+.input-box:hover {
+    transition: 1s;
+    transform: scale(1.1);
+}
+
+.btn {
+    display: block;
+    margin: auto;
+    
+    padding: 10px 15px;
+    border: 2px solid #000;
+    border-radius: 15px;
+    color: #fff;
+    background-color: #ACE1AF;
+    color: black;
+    font-size: 14px;
+}
+
+.btn:hover {
+    transition: 1s;
+    transform: scale(1.1);
+}
+
+.input-box1 {
+    display: block;
+    margin: 10px auto 5px auto;
+    width: 350px;
+    height: 80px;
+    padding: 5px;
+    border: #000;
+    border-radius: 15px;
+}
+
+.input-box1:hover {
+    transition: 1s;
+    transform: scale(1.1);
+
+}
+
+.city {
+    text-align: center;
+    width: 360px;
+    height: 35px;
+    margin: 7px 10px 20px 70px;
+    padding: 5px;
+    border: #000;
+    border-radius: 15px;
+
+}
+
+.pet {
+    width: 350px;
+    height: 20px;
+    margin: 7px 10px 7px 70px;
+    padding: 5px;
+    border: #000;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+
+@media screen and (max-width: 600px) {
+.container{
+width: 400px;
+
+}
+
+}
