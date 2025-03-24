@@ -103,9 +103,9 @@ Our website is built using the following technologies:
 If you have any questions, need assistance, or want to provide feedback, please don’t hesitate to contact us through the "Contact Us" page on the website. We’re here to help you find your perfect pet match and ensure a smooth adoption experience.
 
 ## Contributors
-   Khapke Manisha 
-   Cholke Tejas 
-   Shaikh Shahid 
+   Khapke Manisha,
+   Cholke Tejas ,
+   Shaikh Shahid .
 
 ## Conclusion
 Thank you for choosing ThePetNest. We’re dedicated to helping animals find their forever homes and supporting potential pet owners with the information and res~ources they need. Happy pet hunting!
