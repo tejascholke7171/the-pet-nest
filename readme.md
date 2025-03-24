@@ -38,28 +38,28 @@ Welcome to ThePetNest website! This README will guide you through the key featur
 ## Page Descriptions
 
 ### Home Page
-This page is created by Team Leader **Aditya Kharde.**
+This page is created by Team Leader **Khapke Manisha.**
 The Home Page provides an overview of our mission and features. It welcomes visitors with a brief introduction to ThePetNest and highlights key sections of the site, such as recent adoptions, featured pets, and upcoming events. The Home Page is designed to engage users and encourage them to explore further.
 
 ### About Page
-This page is created by **Rupesh Mandage**.
+This page is created by **Cholke Tejas**.
 The About Page offers detailed information about our organization. It covers our history, mission, and the team behind ThePetNest. This page helps visitors understand our goals, values, and the impact we aim to have on animal welfare. It also includes testimonials and stories from happy adopters.
 
 ### Get Involved Page
-This page is created by **Vaibhav Sonawane**.
+This page is created by **Shaikh Shahid**.
 The Get Involved Page provides various ways for visitors to contribute to our cause. This includes information on volunteering opportunities, donation options, and fundraising events. It also highlights other ways to support us, such as fostering pets or spreading awareness through social media.
 two 
 ### Adopt Page
 In this page there are three main sections. 
-1) Available pet and their details. The dogs details page is created by **Madhumita Sugandhi** & cats details page is created by **Rachana Shivarkar**.
+1) Available pet and their details. The dogs details page is created by **Cholke Tejas** & cats details page is created by **Shaikh Shahid**.
 2) Adoption pets choice
-which is created by **Aditya Kharde**.
+which is created by **Khapke Manisha**.
 3) Adoption Details
-which is created by **Gayatri Lonkar**.
+which is created by **Cholke Tejas**.
 The Adopt Page is the heart of our website, featuring all available pets for adoption. Users can search for pets based on species, breed, age, size, and other criteria. Each pet's profile includes photos, detailed descriptions, and an "Adopt Me" button that guides users through the adoption process.
 
 ### Contact Us Page
-This page is created by **Lokesh Rajgade**.
+This page is created by **Shaikh Shahid**.
 The Contact Us Page contains all necessary information for getting in touch with us. This includes our email address, phone number, physical address, and a contact form for inquiries. We also provide links to our social media profiles. This page ensures that visitors can easily reach us for any questions or support.
 ## *Example Screenshot of Website.*
 ![Example Screenshot of Website.](./images/readme-img.jpg)
@@ -103,13 +103,9 @@ Our website is built using the following technologies:
 If you have any questions, need assistance, or want to provide feedback, please don’t hesitate to contact us through the "Contact Us" page on the website. We’re here to help you find your perfect pet match and ensure a smooth adoption experience.
 
 ## Contributors
-    Aditya Kharde(team leader)
-    Madhumita Sugandhi
-    Rachana Shivarkar
-    Gayatri Lonkar
-    Lokesh Rajgade
-    Vaibhav Sonawane
-    Rupesh Mandage
+   Khapke Manisha 
+   Cholke Tejas 
+   Shaikh Shahid 
 
 ## Conclusion
 Thank you for choosing ThePetNest. We’re dedicated to helping animals find their forever homes and supporting potential pet owners with the information and res~ources they need. Happy pet hunting!
